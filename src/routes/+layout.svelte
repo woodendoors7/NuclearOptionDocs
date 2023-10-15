@@ -4,6 +4,10 @@
   import "./sidebar.css";
 </script>
 
+<svelte:head>
+  <link rel="icon" type="image/png" href="/favicon.png">
+</svelte:head>
+
 <div class="topBar">
   <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu" style="display:none;" />
   <label for="openSidebarMenu" id="firstCollapse">⚟</label>
