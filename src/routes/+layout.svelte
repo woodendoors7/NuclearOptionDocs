@@ -27,6 +27,11 @@
         <a href="/w/AGM-68">AGM-68</a><br>
         <a href="/w/MMR-S3">MMR-S3</a><br>
     </details>
+
+    <details open>
+      <summary>Bombs</summary>
+        <a href="/w/1.5kt-nuke ">1.5kt Nuclear Bomb</a><br>
+    </details>
   </div>
 </div>
 
