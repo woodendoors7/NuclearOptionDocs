@@ -1,0 +1,109 @@
+
+
+
+
+body {
+    background-color: #1b1b1f;
+    color: white;
+    margin: 0px !important;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.imgSlot {
+    margin:auto;
+    align-items: middle;
+    display: flex;
+}
+
+.imgSlot * {
+    display: inline-block;
+    margin: 0px;
+}
+
+.logo {
+    height: 60px;
+}
+
+.topBar {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    height: var(--topbar-height);
+    border-bottom: 1px solid black;
+    max-width: 100vw;
+    width: 100vw;
+    background-color: #1a1b1e;
+    z-index: 110;
+    height: 60px;
+}
+
+.slot {
+    margin-top: 60px;
+    margin: 10px;
+}
+
+@font-face {
+    font-family: "LiberationSans";
+    src: url("/fonts/LiberationSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LiberationSans";
+    src: url("/fonts/LiberationSans-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "LiberationSans";
+    src: url("/fonts/LiberationSans-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LiberationSans";
+    src: url("/fonts/LiberationSans-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+a {
+    color: #2795e4;
+}
+
+a:visited {
+    color: rgb(180, 135, 252);
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 60px;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+details > a{
+    margin-bottom: 5px;
+    margin-left: 15px;
+
+}
+details{
+    margin-top: 10px;
+}
+
+summary:hover{
+    cursor:pointer;
+}

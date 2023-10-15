@@ -1,0 +1,51 @@
+#openSidebarMenu:checked~.sidenav {
+    display: none !important;
+}
+
+#openSidebarMenu~.sidenav {
+    display: block;
+}
+
+
+
+#openSidebarMenu:checked ~ #firstCollapse {
+    display: none ;
+}
+
+#openSidebarMenu ~ #firstCollapse {
+    display:block;
+}
+
+#openSidebarMenu:checked~#secondCollapse {
+    display: block;
+}
+
+#openSidebarMenu~#secondCollapse {
+    display:none ;
+}
+
+
+
+#secondCollapse {
+    font-weight:900;
+    font-size: 26px;
+    margin-left: 10px;
+}
+
+#firstCollapse {
+    font-weight: 600;
+    font-size: 26px;
+    margin-left: 10px;
+
+}
+
+
+@media screen and (max-width: 1454px) {
+    #openSidebarMenu:checked~.sidenav {
+        display: block !important;
+    }
+
+    #openSidebarMenu~.sidenav {
+        display: none !important;
+    }
+}

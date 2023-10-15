@@ -15,6 +15,9 @@ Due to it's high weapon selection, it is a very flexible jet and it can be used 
 ---
 
 
+<span class="inlineChildren">
+<span class="firstColumn">
+
 | Info              | Value        |
 | -----------       | -----------        |
 | ↔ Length          | 13.2m              |
@@ -26,6 +29,10 @@ Due to it's high weapon selection, it is a very flexible jet and it can be used 
 | ⚠ Stall speed    | 180km/h            |
 | ༄ Maneuverability | 8.0g               |
 
+</span>
+
+<span class="firstColumn">
+
 
 | Compartment     | Weapons        |
 | -----------       | -----------        |
@@ -34,3 +41,5 @@ Due to it's high weapon selection, it is a very flexible jet and it can be used 
 | ↔🛦 Middle Wing Pylon   | AGM-48 (x1/x2)<br>AGM-68<br>MMR-S3 [IR]<br>500kg bomb               |
 | ←🛦 Outer Wing Pylon    | MMR-S3 [IR]<br>AGM-48                |
 
+</span>
+</span>
