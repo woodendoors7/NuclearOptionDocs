@@ -30,7 +30,9 @@
 
     <details open>
       <summary>Bombs</summary>
-        <a href="/w/1.5kt-nuke ">1.5kt Nuclear Bomb</a><br>
+        <a href="/w/500kg-bomb">500kg bomb</a><br>
+        <a href="/w/1.5kt-nuke">1.5kt Nuclear Bomb</a><br>
+
     </details>
   </div>
 </div>

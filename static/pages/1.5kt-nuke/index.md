@@ -9,6 +9,7 @@ The effective range is different depending on the conditions in which it is drop
 > "freefall tactical nuclear bomb"
 
 
+<span class="inlineChildren">
 
 ### Technical Info
 ---
@@ -24,5 +25,4 @@ The effective range is different depending on the conditions in which it is drop
 | ⩥ Range        | variable       |
 | Carried by        | 🛦FS-12 Revoker<br>🛧 SFB-81 Darkreach       |
 
-
-
+</span>

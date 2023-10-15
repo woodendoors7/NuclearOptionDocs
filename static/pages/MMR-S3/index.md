@@ -6,6 +6,8 @@ Its effective range varies greatly, and it depends on which direction is the tar
 
 
 
+<span class="firstColumn">
+
 ### Technical Info
 ---
 
@@ -20,5 +22,4 @@ Its effective range varies greatly, and it depends on which direction is the tar
 | ⩥ Range        | 15km       |
 | Carried by        | 🛨 CI-22 Cricket<br>🛦 T/A-30 Compass<br>🚁 SAH-46 Chicane<br>🛦FS-12 Revoker<br>  |
 
-
-
+</span>

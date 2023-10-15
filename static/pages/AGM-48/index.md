@@ -6,6 +6,8 @@ Its effective range is 8 kilometers.
 
 
 
+<span class="firstColumn">
+
 ### Technical Info
 ---
 
@@ -20,5 +22,4 @@ Its effective range is 8 kilometers.
 | ⩥ Range        | 8km       |
 | Carried by        | 🛨 CI-22 Cricket<br>🛦 T/A-30 Compass<br>🛧 SAH-46       |
 
-
-
+</span>

@@ -5,6 +5,7 @@ Its effective range is 15 kilometers.
 > "Optically guided missile capable of destroying heavily armed vehicles, and effective againsat fortified structures"
 
 
+<span class="firstColumn">
 
 ### Technical Info
 ---
@@ -20,5 +21,4 @@ Its effective range is 15 kilometers.
 | ⩥ Range        | 15km       |
 | Carried by      | 🛨 CI-22 Cricket<br>🛦 T/A-30 Compass<br>🚁 SAH-46 Chicane<br>🛦FS-12 Revoker<br>🛧 SFB-81 Darkreach      |
 
-
-
+</span>

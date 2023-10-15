@@ -1,45 +1,28 @@
-**T/A-30 Compass** is a multi-functional advanced trainer jet well suited for light combat duty, featuring forgiving flight characteristics and particularly adept at low-altitude strike missions. 
+The **500kg bomb** is an optically guided bomb Air-to-Ground bomb. Fifty times stronger than the [AGM-48](/w/AGM-48) missile, and almost 4 times stronger than the [AGM-68](/w/AGM-68) missile, it delivers a very strong explosion capable of destroying well fortified buildings, and large convoys. 
+
+Since it has no propulsion or heat signature, so it can only be shot down by radar missiles. The downside being however that the aircraft dropping the bomb has to be approximately above the ground target, which opens a window for the ground target to shoot it down. While it has no propulsion, it is optically guided, which means it tilts its fins to guide itself more accurately on the moving target.
+
+It has a surface burst warhead, which means instead of exploding in the air right before the impact like the AGM missiles, it explodes over a large area on impact.
+
+The effective range is different depending on the conditions in which it is dropped from.
+
+> "Optically guided bomb with a large surface burst warhead"
 
 
-### Details 
----
-It features **forgiving flight characteristics**, such as high maneuverability at low to medium speed and redundant control surfaces such twin engines, which provide a fallback if one of the engines malfunctions. 
-
-Due to it's high weapon selection, it is a very flexible jet and it can be used for any purpose, including air-to-air combat using its [MMR-S3 heat-seeking missiles](/w/MMR-S3), air-to-ground combat using the [AGM-68](/w/AGM-68) and [AGM-48](/w/AGM-48) optical missiles, [500kg bombs](/w/500kg-bomb), and a multi-purpose 25mm gunpod.
-
-> "An advanced jet trainer which is well suited for light combat duty, the T/A-30 is highly maneuverable at low to medium speeds and possesses forgiving flight characteristics. Particularly adept at low-altitude strike missions, the Compass features redundant control surfaces and twin engines to improve survivability."
-
-
+<span class="firstColumn">
 
 ### Technical Info
 ---
 
+| Syntax       | Description |
+| -----------  | ----------- |
+| ↔ Length       | 2.7m (270cm)       |
+| ⌀ Width        | 0.5m (50cm)       |
+| ↕ Height       | 0.5m (50cm)       |
+| 💰 Cost         | 20k        |
+| ㎏ Warhead Yield| 500kg        |
+| Δ Delta V      | 0km/h       |
+| ⩥ Range        | variable       |
+| Carried by        | 🛦 T/A-30 Compass<br>🛦FS-12 Revoker<br>🛧 SFB-81 Darkreach       |
 
-<span class="inlineChildren">
-<span class="firstColumn">
-
-| Info              | Value        |
-| -----------       | -----------        |
-| ↔ Length          | 13.2m              |
-| ⌀ Width           | 12.1m              |
-| ↕ Height          | 3.3m               |
-| ＄ Cost           | 22m                |
-| ㎏ Empty Weight   | 5200kg (5.2 Tonne) |
-| ㎞ Max Speed      | 980km/h (272m/s)   |
-| ⚠ Stall speed    | 180km/h            |
-| ༄ Maneuverability | 8.0g               |
-
-</span>
-
-<span class="firstColumn">
-
-
-| Compartment     | Weapons        |
-| -----------       | -----------        |
-| 🗁  Weapon Bay    | 25mm gunpod<br>500kg bomb<br>AGM-68<br>MMR-S3 [IR] x2<br>Nuclear Bomb (1.5kt)   |
-| →🛦 Inner Wing Pylons | AGM-68<br>AGM-48 (x1/x2)<br>MMR-S3 [IR] (x1/x2)<br>500kg bomb<br>20mm gunpod   |
-| ↔🛦 Middle Wing Pylon   | AGM-48 (x1/x2)<br>AGM-68<br>MMR-S3 [IR]<br>500kg bomb               |
-| ←🛦 Outer Wing Pylon    | MMR-S3 [IR]<br>AGM-48                |
-
-</span>
 </span>
