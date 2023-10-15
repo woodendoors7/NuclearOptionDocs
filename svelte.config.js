@@ -8,7 +8,7 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter(),
 		prerender:{
-			entries: ['/w/AGM-48', "/w/FS-12", "/w/TA-30"]
+			entries: ['/w/AGM-48', "/w/FS-12", "/w/TA-30", "/"]
 		}
 	}
 };

@@ -1,7 +1,8 @@
 
-<head>
+
+<svelte:head>
     <title>Nuclear Option Community WIKI</title>
-</head>
+</svelte:head>
 
 <div class="article">
     <h1>Nuclear Option Community WIKI</h1>
