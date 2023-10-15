@@ -17,15 +17,15 @@
   <div class="sidenav">
     <details open>
       <summary>Aircraft</summary>
-        <a href="/w/TA-30">T/A-30 Compass</a>
-        <a href="/w/FS-12">FS-12 Revoker</a>
+        <a href="/w/TA-30">T/A-30 Compass</a><br>
+        <a href="/w/FS-12">FS-12 Revoker</a><br>
     </details>
 
     <details open>
       <summary>Missiles</summary>
-        <a href="/w/AGM-48">AGM-48</a>
-        <a href="/w/AGM-68">AGM-68</a>
-        <a href="/w/MMR-S3">MMR-S3</a>
+        <a href="/w/AGM-48">AGM-48</a><br>
+        <a href="/w/AGM-68">AGM-68</a><br>
+        <a href="/w/MMR-S3">MMR-S3</a><br>
     </details>
   </div>
 </div>
