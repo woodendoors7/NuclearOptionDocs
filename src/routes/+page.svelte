@@ -18,13 +18,13 @@
 
 <style>
     #theFrame{ 
-        max-width: 90%;
+        max-width: 100%;
     }
 
     .article {
         margin: 0 auto 3em;
         max-width: 50rem;
         padding: 2rem;
-        margin-top: 120px;
+        margin-top: 60px;
     }
 </style>
