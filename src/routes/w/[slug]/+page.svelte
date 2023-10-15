@@ -17,3 +17,6 @@
   <SvelteMarkdown source={indexMD} />
 </div>
 
+<svelte:head>
+  <title>{data.info.title} | Nuclear Option WIKI</title>
+</svelte:head>
