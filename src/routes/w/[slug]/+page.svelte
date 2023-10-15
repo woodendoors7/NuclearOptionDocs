@@ -13,7 +13,7 @@
   <h1>{data.info.title}</h1>
   <hr />
   <table />
-  <img class="titleImg" src="/pages/{data.slug}/{data.info.photo}" alt="" />
+  <img class="titleImg" src="/pages/{data.slug}/{data.info.photo}" alt="{data.info.photoAlt}" />
   <SvelteMarkdown source={indexMD} />
 </div>
 
