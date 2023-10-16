@@ -23,6 +23,8 @@
       <summary>Aircraft</summary>
         <a href="/w/TA-30">T/A-30 Compass</a><br>
         <a href="/w/FS-12">FS-12 Revoker</a><br>
+        <a href="/w/CI-22">CI-22 Cricket</a><br>
+
     </details>
 
     <details open>
