@@ -16,7 +16,7 @@ Due to it's high weapon selection, it is a very flexible jet and it can be used 
   Your browser does not support the video tag.
 </video>
 <br>
-An <a href="/w/TA-30">T/A-30 Compass</a> shooting down a CI-22 Cricket with its MMR-S3 heat seeking missiles.
+An T/A-30 Compass shooting down a CI-22 Cricket with its <a href="/w/MMR-S3">MMR-S3 heat seeking missiles.</a>
 </span>
 
 

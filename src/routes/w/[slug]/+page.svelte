@@ -9,7 +9,7 @@
 </script>
 
 <div class="article">
-  <a href="https://google.com" style="float:right">Edit</a>
+  <a href="https://github.com/woodendoors7/NuclearOptionDocs/tree/main/static/pages/{data.slug}" style="float:right">Edit</a>
   <h1>{data.info.title}</h1>
   <hr />
   <table />
