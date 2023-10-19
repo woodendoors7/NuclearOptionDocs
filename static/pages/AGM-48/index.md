@@ -1,4 +1,4 @@
-An **AGM-48** is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft.
+The **AGM-48** is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft.
 
 Its effective range is 8 kilometers.
 

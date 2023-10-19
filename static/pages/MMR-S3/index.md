@@ -1,8 +1,15 @@
-An **MMR-S3** is an Air-to-Air medium range heat seeking missile that is used for targeting and destroying air targets from aircraft.
 
+The **MMR-S3** is an Air-to-Air medium range heat seeking missile that is used for targeting and destroying air targets from aircraft.
 
+### Details
+---
 
-Its effective range varies greatly, and it depends on which direction is the target aircraft flying, how fast and how good is it's heat signature. Since the missile locks onto the hottest object in its sight, flares can be used to confuse the missiles tracking system, at which point the missile will lock onto and attack the flare, instead of the target aircraft. The best way to counter these missiles is to turn your engines away from them, or turn them off momentarily, as they are the biggest source of heat, and release flares.
+Compared to its smaller brother, the [IRM-S1 heat seeking missile](/w/IRM-S1), this IR missile has a tripled range and nearly five times the yield, rendering it a highly effective option for targeting enemy aircraft with a significant heat signature. 
+
+Since the missile is a heat seeking missile, it locks onto the hottest object in its field of vision. Since they emit intensive heat, flares can be used to confuse the missile's tracking system, at which point the missile will lock onto and attack the flare, instead of the target aircraft. The best way to counter these missiles is to prevent them from seeing your engine by turning them away from their direction, or turn them off momentarily, as they are the biggest source of heat, and then release flares.*[<sup>[🛈 Merge into article on countering IR missiles]</sup>](#)*
+
+The missile's effective range varies greatly, and it depends on which direction is the target aircraft flying, how fast and how good is its heat signature. 
+
 
 
 

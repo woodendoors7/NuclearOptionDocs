@@ -32,6 +32,8 @@
         <a href="/w/AGM-48">AGM-48</a><br>
         <a href="/w/AGM-68">AGM-68</a><br>
         <a href="/w/MMR-S3">MMR-S3</a><br>
+        <a href="/w/IRM-S1">IRM-S1</a><br>
+        <a href="/w/AAM-29">AAM-29 Scythe</a><br>
     </details>
 
     <details open>

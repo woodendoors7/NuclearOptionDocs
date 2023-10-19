@@ -1,11 +1,14 @@
-**T/A-30 Compass** is a multi-functional advanced trainer jet well suited for light combat duty, featuring forgiving flight characteristics and particularly adept at low-altitude strike missions. 
+
+The **T/A-30 Compass** is a multi-functional advanced trainer jet well suited for light combat duty, featuring forgiving flight characteristics and particularly adept at low-altitude strike missions. 
 
 
 ### Details 
 ---
 It features **forgiving flight characteristics**, such as high maneuverability at low to medium speed and redundant control surfaces such twin engines, which provide a fallback if one of the engines malfunctions. 
 
-Due to it's high weapon selection, it is a very flexible jet and it can be used for any purpose, including air-to-air combat using its [MMR-S3 heat-seeking missiles](/w/MMR-S3), air-to-ground combat using the [AGM-68](/w/AGM-68) and [AGM-48](/w/AGM-48) optical missiles, [500kg bombs](/w/500kg-bomb), and a multi-purpose 25mm gunpod.
+Due to its high weapon selection, it is a very flexible jet, and it can be used for any purpose, including air-to-air combat using its [MMR-S3 heat-seeking missiles](/w/MMR-S3), air-to-ground combat using the [AGM-68](/w/AGM-68) and [AGM-48](/w/AGM-48) optical missiles, [500kg bombs](/w/500kg-bomb), and a multipurpose 25 mm gunpod.
+
+
 
 
 > "An advanced jet trainer which is well suited for light combat duty, the T/A-30 is highly maneuverable at low to medium speeds and possesses forgiving flight characteristics. Particularly adept at low-altitude strike missions, the Compass features redundant control surfaces and twin engines to improve survivability."
