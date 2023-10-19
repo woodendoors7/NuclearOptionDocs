@@ -1,14 +1,18 @@
 
 
 <svelte:head>
-    <title>Nuclear Option Community WIKI</title>
+    <title>Nuclear Option WIKI</title>
 </svelte:head>
 
 <div class="article">
     <h1>Nuclear Option Community WIKI</h1>
-    <p>Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future. Use an array of advanced weapons to change the course of battles as you intercept bombers, duel fighters, fly under the radar, or unleash the fury of nuclear weapons on enemy formations.
-       Each aircraft comes with an immersive cockpit featuring a situational awareness HUD, identifying nearby targets and threats. Aircraft can be flown with various controllers or with a mouse-controlled "virtual joystick", requiring no special hardware.</p>
-    <p><b>Completely WIP.</b> Coming soon, message if you wanna contribute.</p>
+    <main><p>Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future. Use an array of advanced weapons to change the course of battles as you intercept bombers, duel fighters, fly under the radar, or unleash the fury of nuclear weapons on enemy formations.
+       Each aircraft comes with an immersive cockpit featuring a situational awareness HUD, identifying nearby targets and threats. Aircraft can be flown with various controllers or with a mouse-controlled "virtual joystick", requiring no special hardware.</p></main>
+    
+       <p>For this page, I am using <a href="https://kit.svelte.dev/SvelteKit">SvelteKit</a> as the development/deployment/SSG tool. The individual wiki pages are stored as markdown files in a <a href="https://github.com/woodendoors7/NuclearOptionDocs">Github Repo</a>, and I am deploying and hosting everything statically on <a href="https://pages.cloudflare.com">Cloudflare Pages</a>.
+       Unless I'll to do otherwise, I am pre-rendering all pages to static HTML, and not sending any Javascript that would affect the page's functionality to the frontend, therefore all usable parts of the pages should be fully static client-side (including the sidebar toggle)</p>
+   
+       <p><b>Completely WIP for now.</b> This project is still very new, so everything is coming soon. If you'd like to contribute, hmu on Discord (woodendoors7) or make a pull request.</p>
     <h3><a href="https://store.steampowered.com/app/2168680/Nuclear_Option/" target="_blank">Buy on Steam</a></h3>
     <h3><a href="https://discord.gg/nuclear-option-909034158205059082/" target="_blank">Join Discord</a></h3>
 

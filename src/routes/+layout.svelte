@@ -14,8 +14,7 @@
   <label for="openSidebarMenu" id="secondCollapse">⚞</label>
 
   <div class="imgSlot">
-    <img class="logo" src="/nukeoption.png" alt="" />
-
+    <a href="/"><img class="logo" src="/nukeoption.png" alt="Nuclear Option game logo" /></a>
   </div>    
 
   <div class="sidenav">
