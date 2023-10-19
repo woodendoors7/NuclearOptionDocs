@@ -1,5 +1,5 @@
 
-The **IRM-S1** is an Air-to-Air or Ground-to-Air low range heat seeking missile that is used for targeting and destroying air targets from lighter aircraft or ground air defense vehicles.
+The **IRM-S1** is an Air-to-Air and Ground-to-Air low range heat seeking missile that is used for targeting and destroying air targets from lighter aircraft or ground air defense vehicles.
 
 # Details
 ---
