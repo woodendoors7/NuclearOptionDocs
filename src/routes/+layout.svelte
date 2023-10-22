@@ -15,15 +15,18 @@
 
   <div class="imgSlot">
     <a href="/"><img class="logo" src="/nukeoption.png" alt="Nuclear Option game logo" /></a>
+
   </div>    
 
   <div class="sidenav">
+    <b>Nuclear Option WIKI</b>
+
     <details open>
       <summary>Aircraft</summary>
         <a href="/w/TA-30">T/A-30 Compass</a><br>
         <a href="/w/FS-12">FS-12 Revoker</a><br>
         <a href="/w/CI-22">CI-22 Cricket</a><br>
-
+        <a href="/w/SFB-81">SFB-81 Darkreach</a>
     </details>
 
     <details open>

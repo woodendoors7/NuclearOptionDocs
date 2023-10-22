@@ -16,12 +16,20 @@
     <h3><a href="https://store.steampowered.com/app/2168680/Nuclear_Option/" target="_blank">Buy on Steam</a></h3>
     <h3><a href="https://discord.gg/nuclear-option-909034158205059082/" target="_blank">Join Discord</a></h3>
 
-
-    <iframe id="theFrame" width="560" height="315" src="https://www.youtube-nocookie.com/embed/1vEf2TagnXc?si=PhAlk6GlZGia2rtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    
+    <div class="inlineChildren">
+        <iframe id="theFrame" width="560" height="315" src="https://www.youtube-nocookie.com/embed/1vEf2TagnXc?si=PhAlk6GlZGia2rtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6TBkOjTsek?si=x2h2bj7t31mUfnq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
 </div>
 
 <style>
+
+    .inlineChildren > iframe {
+    vertical-align: top;
+    display: inline-block;
+    margin: 5px;
+    }
+
     #theFrame{ 
         max-width: 100%;
     }
