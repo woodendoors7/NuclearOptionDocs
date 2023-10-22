@@ -1,5 +1,6 @@
 {
     "title": "AAM-29 Scythe",
     "photo": "aamscythe.png",
-    "photoAlt":"AAM-29 Scythe active radar homing long range missile"
+    "photoAlt": "AAM-29 Scythe active radar homing long range missile",
+    "description": "The AAM-29 Scythe is an Air-to-Air high range active radar homing missile that is used for targeting and destroying air targets from aircraft, even at beyond visual range."
 }

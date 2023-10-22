@@ -19,4 +19,18 @@
 
 <svelte:head>
   <title>{data.info.title} | Nuclear Option WIKI</title>
+
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://nuclearoption.wiki/w/{data.slug}" />
+  <meta property="og:title" content="{data.info.title} | Nuclear Option WIKI" />
+  <meta property="og:image" content="/pages/{data.slug}/{data.info.photo}" />
+  <meta property="og:description" content="{data.info.description}" />
+
+  
+  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:url" content="https://nuclearoption.wiki/w/{data.slug}" />
+  <meta property="twitter:title" content="{data.info.title} | Nuclear Option WIKI" />
+  <meta property="twitter:image" content="/pages/{data.slug}/{data.info.photo}" />
+  <meta property="twitter:description" content="{data.info.description}" />
+
 </svelte:head>

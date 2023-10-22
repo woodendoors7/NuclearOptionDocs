@@ -1,9 +1,4 @@
 
-
-<svelte:head>
-    <title>Nuclear Option WIKI</title>
-</svelte:head>
-
 <div class="article">
     <h1>Nuclear Option Community WIKI</h1>
     <main><p>Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future. Use an array of advanced weapons to change the course of battles as you intercept bombers, duel fighters, fly under the radar, or unleash the fury of nuclear weapons on enemy formations.
@@ -41,3 +36,20 @@
         margin-top: 60px;
     }
 </style>
+
+<svelte:head>
+    <title>Nuclear Option WIKI</title>
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nuclearoption.wiki/" />
+    <meta property="og:title" content="Nuclear Option WIKI" />
+    <meta property="twitter:image" content="/header.jpg" />
+    <meta property="og:description" content="Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future." />
+  
+    
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://nuclearoption.wiki/" />
+    <meta property="twitter:title" content="Nuclear Option WIKI" />
+    <meta property="twitter:image" content="/header.jpg" />
+    <meta property="twitter:description" content="Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future." />
+</svelte:head>
