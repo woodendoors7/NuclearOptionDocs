@@ -4,7 +4,20 @@
     margin: 20px;
     margin-top: 0px;
     margin-right: 0px;
+
+    border: 6px solid #212229;
+    outline: 1px solid #393a3f;
 }
+
+@media screen and (max-width: 500px) {
+    .titleImg {
+        float: unset !important;
+        max-width: 90%;
+        margin-left: 10px;
+        margin-bottom: 15px;
+    }
+}
+
 
 .article {
     margin: 0 auto 3em;
@@ -71,7 +84,7 @@ p {
     padding: 5px;
     border: #393a3f solid 1px;
     background-color: #212229;
-    float:right;
+    float: right;
     max-width: 200px;
     margin-left: 5px;
 }
