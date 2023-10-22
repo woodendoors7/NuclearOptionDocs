@@ -30,7 +30,7 @@ Other than its signature lynchpin rockets and cannons, it can also be equipped w
 | ⌀ Width           | 11.6m              |
 | ↕ Height          | 3.4m               |
 | ＄ Cost           | 11.5m                |
-| ㎏ Empty Weight   | 3850 (3.8 Tonne) |
+| ㎏ Empty Weight   | 3850kg (3.8 Tonne) |
 | ㎞ Max Speed      | 515km/h (75m/s)   |
 | ⚠ Stall speed    | 180km/h            |
 | ༄ Maneuverability | 6.5g               |
