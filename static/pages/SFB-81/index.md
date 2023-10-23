@@ -14,7 +14,7 @@ It is highly ineffective to drop missiles or rockets from the Revoker in a heavi
 
 
 <span class="imageBox" style="max-width: 235px; float:">
-  <img style="max-width: 235px;" src="/pages/SFB-81/sfbdropping.png" alt="SFB-81 Darkreach bomber dropping bombs from its bottom internal weapon bays">
+  <img style="max-width: 235px;" src="/pages/SFB-81/sfbdropping.webp" alt="SFB-81 Darkreach bomber dropping bombs from its bottom internal weapon bays">
 <br>
 An SFB-81 Darkreach dropping 12 <a href="/w/500kg-bomb">500kg bombs</a> from its four large internal weapon bays.
 </span>

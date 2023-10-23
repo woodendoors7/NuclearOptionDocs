@@ -15,6 +15,7 @@ Due to its high weapon selection, it is a very flexible jet, and it can be used 
 
 <span class="imageBox" style="max-width: 288px; float:">
 <video width="288" height="162" autoplay loop muted >
+  <source src="/shootingdown.webm" type="video/webm" />
   <source src="/shootingdown.mov" type="video/quicktime" />
   Your browser does not support the video tag.
 </video>

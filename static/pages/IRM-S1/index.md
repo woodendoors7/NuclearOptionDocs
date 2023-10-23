@@ -23,7 +23,7 @@ The missile's effective range varies greatly, and it depends on which direction 
 | Syntax       | Description |
 | -----------  | ----------- |
 | ↔ Length       | 1.5m (150cm)       |
-| ⌀ Width        | 0.1n (10cm)      |
+| ⌀ Width        | 0.1m (10cm)      |
 | ↕ Height       | 0.1m (10cm)       |
 | 💰 Cost         | 360k    |
 | ㎏ Warhead Yield| 2kg        |

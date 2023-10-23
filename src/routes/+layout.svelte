@@ -14,7 +14,7 @@
   <label for="openSidebarMenu" id="secondCollapse">⚞</label>
 
   <div class="imgSlot">
-    <a href="/"><img class="logo" src="/nukeoption.png" alt="Nuclear Option game logo" /></a>
+    <a href="/"><img class="logo" src="/nukeoption.webp" alt="Nuclear Option game logo" /></a>
 
   </div>    
 
@@ -44,6 +44,12 @@
         <a href="/w/1.5kt-nuke">1.5kt Nuclear Bomb</a><br>
 
     </details>
+
+    <div class="bottom">
+      <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img src="/ByNcSaEu.svg" style="position:absolute; bottom:0;" alt="Creative commons logo">
+      </a>
+    </div>
   </div>
 </div>
 

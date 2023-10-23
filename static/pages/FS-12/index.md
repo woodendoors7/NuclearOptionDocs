@@ -9,7 +9,8 @@ The FS-12 jet is equipped with a single engine, which adds to its agility and ma
 
 <span class="imageBox">
 <video width="200" height="200" autoplay loop muted >
-  <source src="/pages/FS-12/revokertakingoff.mov" type="video/quicktime" />
+  <source src="/pages/FS-12/revokertakingoff.webm" type="video/webm" />
+  <source src="/pages/FS-12/lossless/revokertakingoff.mov" type="video/quicktime" />
   Your browser does not support the video tag.
 </video>
 <br>

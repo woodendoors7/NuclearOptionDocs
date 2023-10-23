@@ -26,6 +26,7 @@ The missile's effective range varies greatly, and it depends on which direction 
 
 <span class="imageBox" style="max-width: 288px; float:">
 <video width="288" height="162" autoplay loop muted >
+  <source src="/shootingdown.webm" type="video/webm" />
   <source src="/shootingdown.mov" type="video/quicktime" />
   Your browser does not support the video tag.
 </video>
