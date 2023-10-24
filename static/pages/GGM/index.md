@@ -3,11 +3,11 @@ The **Ground-to-Ground missile** is an optically guided anti-armor missile launc
 ### Details 
 --- 
 
-Just like the AGM missiles, it uses optical guidance to target destroy vehicles, with the difference of being launched from ground vehicles instead of in-the-air aircraft. Infantry fighting vehicles possess anti-armor missile launcher, which are used for launching this missile. 
+Just like the AGM missiles, it uses optical guidance to target destroy vehicles, with the difference of being launched from ground vehicles instead of in-the-air aircraft. Infantry fighting vehicles possess anti-armor missile launchers, which are used for launching this missile. 
 
 Its effective range is 4km, therefore it has to be used from a relatively close distance compared to Air-to-Ground missiles with higher ranges.
 
-> "Ground-launcher anti-armor missile"
+> "Ground-launched anti-armor missile"
 
 
 

@@ -7,7 +7,6 @@
 }
 
 
-
 #openSidebarMenu:checked ~ #firstCollapse {
     display: none ;
 }
@@ -23,7 +22,6 @@
 #openSidebarMenu~#secondCollapse {
     display:none ;
 }
-
 
 
 #secondCollapse {
@@ -44,7 +42,6 @@
     cursor: pointer;
 }
 
-
 @media screen and (max-width: 1454px) {
     #openSidebarMenu:checked~.sidenav {
         display: block !important;
@@ -54,7 +51,6 @@
         display: none !important;
     }
 }
-
 
 .sidenav {
     height: 100%;
@@ -67,4 +63,13 @@
     overflow-x: hidden;
     padding-top: 20px;
     padding-left: 10px;
+}
+
+.sidenav > details > a:visited {
+    color: #63ade2 !important;
+
+}
+
+.sidenav > details > a{
+    text-decoration: none;
 }
