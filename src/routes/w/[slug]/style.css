@@ -1,5 +1,7 @@
 .titleImg {
     max-width: 200px;
+    width: 200px;
+    height: 200px;
     float: right;
     margin: 20px;
     margin-top: 0px;
@@ -13,11 +15,12 @@
     .titleImg {
         float: unset !important;
         max-width: 90%;
+        width: 90%;
+        height: 90%;
         margin-left: 10px;
         margin-bottom: 15px;
     }
 }
-
 
 .article {
     margin: 0 auto 3em;

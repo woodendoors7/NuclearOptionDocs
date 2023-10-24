@@ -19,6 +19,8 @@
 <svelte:head>
   <title>{data.info.title} | Nuclear Option WIKI</title>
 
+  <meta name="description" content="{data.info.description}">
+
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://nuclearoption.wiki/w/{data.slug}" />
   <meta property="og:title" content="{data.info.title} | Nuclear Option WIKI" />

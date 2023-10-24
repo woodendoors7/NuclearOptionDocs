@@ -1,4 +1,6 @@
-The **AGM-68** is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft. It is especially capable of destroying heavily armed vehicles such as tanks, and fortified structures.
+The **AGM-68** is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft. 
+
+Just as the AGM-48, it uses optical (camera) tracking, which enables it to track slow-moving ground targets if they are in optical range. Compared to the smaller AGM-48, it has a bigger yield and is especially capable of destroying heavily armed vehicles such as tanks, and fortified structures.
 
 Its effective range is 15 kilometers.
 
