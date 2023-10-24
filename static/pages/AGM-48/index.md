@@ -1,5 +1,8 @@
 The **AGM-48** is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft.
 
+### Details 
+---
+
 Instead of using infrared or radar tracking, the missile uses optical, or camera tracking, as such the missile can track its target as long as it is within visual range.
 
 Its effective range is 8 kilometers.
