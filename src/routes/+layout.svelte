@@ -15,7 +15,6 @@
 
   <div class="imgSlot">
     <a href="/"><img class="logo" src="/nukeoption.webp" alt="Nuclear Option game logo" /></a>
-
   </div>    
 
   <div class="sidenav">

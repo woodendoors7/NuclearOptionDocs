@@ -45,7 +45,7 @@ An <a href="/w/TA-30">T/A-30 Compass</a> shooting down a CI-22 Cricket with its 
 | ㎏ Warhead Yield| 9kg        |
 | Δ Delta V      | 3085km/h (856m/s)       |
 | ⩥ Range        | 15km       |
-| Carried by        | 🛨 CI-22 Cricket<br>🛦 T/A-30 Compass<br>🚁 SAH-46 Chicane<br>🛦FS-12 Revoker<br>  |
+| Carried by        | 🛨CI-22 Cricket<br>🛦T/A-30 Compass<br>🚁SAH-46 Chicane<br>🛦FS-12 Revoker<br>  |
 
 
 

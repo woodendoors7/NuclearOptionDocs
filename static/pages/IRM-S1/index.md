@@ -29,7 +29,7 @@ The missile's effective range varies greatly, and it depends on which direction 
 | ㎏ Warhead Yield| 2kg        |
 | Δ Delta V      | 2475km/h (687.5m/s)       |
 | ⩥ Range        | 5km       |
-| Carried by        | 🛨 CI-22 Cricket<br>🚁 SAH-46 Chicane<br>⛟ AFV8 Mobile Air Defense<br>⛟ Linebreaker SAM<br>  |
+| Carried by        | 🛨CI-22 Cricket<br>🚁SAH-46 Chicane<br>⛟AFV8 Mobile Air Defense<br>⛟Linebreaker SAM<br>  |
 
 
 

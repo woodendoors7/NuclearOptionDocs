@@ -8,6 +8,10 @@
        Unless I'll to do otherwise, I am pre-rendering all pages to static HTML, and not sending any Javascript that would affect the page's functionality to the frontend, therefore all usable parts of the pages should be fully static client-side (including the sidebar toggle)</p>
    
        <p><b>Completely WIP for now.</b> This project is still very new, so everything is coming soon. If you'd like to contribute, hmu on Discord (woodendoors7) or make a pull request.</p>
+
+       <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu" style="display:none;" />
+       <label for="openSidebarMenu" style="background-color: lightblue; color: black; padding: 10px; font-size: 20px; font-weight: bold; cursor: pointer; user-select: none;">Browse WIKIS</label>
+
     <h3><a href="https://store.steampowered.com/app/2168680/Nuclear_Option/" target="_blank">Buy on Steam</a></h3>
     <h3><a href="https://discord.gg/nuclear-option-909034158205059082/" target="_blank">Join Discord</a></h3>
 

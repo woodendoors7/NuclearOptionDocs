@@ -6,8 +6,7 @@ body {
     background-color: #1b1b1f;
     color: white;
     margin: 0px !important;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
 }
 
 .imgSlot {
@@ -104,3 +103,23 @@ summary:hover{
     width: 170px;
     margin-left: 24px;
 }
+
+
+
+ol {
+    list-style: none;
+    counter-reset: my-awesome-counter;
+  }
+  ol li {
+    counter-increment: my-awesome-counter;
+  }
+  ol li::before {
+    content: counter(my-awesome-counter) ". ";
+    color: white;
+    font-weight: bold;
+  }
+  
+
+  li {
+    color: #e4e4e4
+  }
