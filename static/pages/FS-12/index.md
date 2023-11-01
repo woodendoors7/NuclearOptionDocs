@@ -8,7 +8,7 @@ The **FS-12 Revoker** is an advanced fighter jet built for agility, capable of e
 The FS-12 jet is equipped with a single engine, which adds to its agility and maneuverability during air combat. This agility is advantageous in certain tactical situations, such as dogfights or close air support missions. The single engine is equipped with a powerful afterburner, which significantly improves its takeoff and climb performance, which is advantageous when taking off of short runways and increases the aircraft's ability to quickly gain altitude, which can be critical in certain tactical scenarios such as quickly intercepting missiles flying towards an airfield, without much holdup with taxiing and waiting to gain speed from the ground.
 
 <span class="imageBox">
-<video width="200" height="200" autoplay loop muted >
+<video poster="/pages/FS-12/fs12revokertakingoffthumbnail.webp" width="200" height="200" autoplay loop muted >
   <source src="/pages/FS-12/revokertakingoff.webm" type="video/webm" />
   <source src="/pages/FS-12/lossless/revokertakingoff.mov" type="video/quicktime" />
   Your browser does not support the video tag.

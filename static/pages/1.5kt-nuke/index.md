@@ -23,6 +23,6 @@ The effective range is different depending on the conditions in which it is drop
 | ㎏ Warhead Yield| 1500000kg (1500 tonne)        |
 | Δ Delta V      | 0km/h       |
 | ⩥ Range        | variable       |
-| Carried by        | 🛦FS-12 Revoker<br>🛧 SFB-81 Darkreach       |
+| Carried by        | 🛦FS-12 Revoker<br>🛧SFB-81 Darkreach       |
 
 </span>

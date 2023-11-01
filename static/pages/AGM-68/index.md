@@ -21,6 +21,6 @@ Its effective range is 15 kilometers.
 | ㎏ Warhead Yield| 130kg       |
 | Δ Delta V      | 1386km/h (385m/s)       |
 | ⩥ Range        | 15km       |
-| Carried by      | 🛨 CI-22 Cricket<br>🛦 T/A-30 Compass<br>🚁 SAH-46 Chicane<br>🛦FS-12 Revoker<br>🛧 SFB-81 Darkreach      |
+| Carried by      | 🛨CI-22 Cricket<br>🛦T/A-30 Compass<br>🚁 SAH-46 Chicane<br>🛦FS-12 Revoker<br>🛧SFB-81 Darkreach      |
 
 </span>

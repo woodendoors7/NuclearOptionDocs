@@ -25,6 +25,6 @@ Its effective range is 8 kilometers.
 | ㎏ Warhead Yield| 10kg        |
 | Δ Delta V      | 1278km/h (355m/s)       |
 | ⩥ Range        | 8km       |
-| Carried by        | 🛨 CI-22 Cricket<br>🛦 T/A-30 Compass<br>🛧 SAH-46       |
+| Carried by        | 🛨CI-22 Cricket<br>🛦 T/A-30 Compass<br>🛧SAH-46       |
 
 </span>

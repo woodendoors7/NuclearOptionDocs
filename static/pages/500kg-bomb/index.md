@@ -23,6 +23,6 @@ The effective range is different depending on the conditions in which it is drop
 | ㎏ Warhead Yield| 500kg        |
 | Δ Delta V      | 0km/h       |
 | ⩥ Range        | variable       |
-| Carried by        | 🛦 T/A-30 Compass<br>🛦FS-12 Revoker<br>🛧 SFB-81 Darkreach       |
+| Carried by        | 🛦T/A-30 Compass<br>🛦FS-12 Revoker<br>🛧SFB-81 Darkreach       |
 
 </span>

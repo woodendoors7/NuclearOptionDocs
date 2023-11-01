@@ -33,6 +33,6 @@ A Ground-to-Ground missile being launched at an enemy out of Linebreaker IFV's m
 | ㎏ Warhead Yield| 8kg        |
 | Δ Delta V      | 1128km/h (313m/s)       |
 | ⩥ Range        | 4km       |
-| Carried by        | ⛟ AFV8 IFV<br>⛟ Linebreaker IFV   |
+| Carried by        | ⛟AFV8 IFV<br>⛟Linebreaker IFV   |
 
 </span>

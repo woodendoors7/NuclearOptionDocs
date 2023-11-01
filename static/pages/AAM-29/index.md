@@ -34,7 +34,7 @@ One of the ways to evade the missile is to 'Notch' the missile, which means flyi
 | ㎏ Warhead Yield| 20kg        |
 | Δ Delta V      | 4307km/h (1196m/s)       |
 | ⩥ Range        | 120km       |
-| Carried by        | 🛦 T/A-30 Compass<br>🛦FS-12 Revoker  |
+| Carried by        | 🛦T/A-30 Compass<br>🛦FS-12 Revoker  |
 
 
 

@@ -14,7 +14,7 @@ Due to its high weapon selection, it is a very flexible jet, and it can be used 
 > "An advanced jet trainer which is well suited for light combat duty, the T/A-30 is highly maneuverable at low to medium speeds and possesses forgiving flight characteristics. Particularly adept at low-altitude strike missions, the Compass features redundant control surfaces and twin engines to improve survivability."
 
 <span class="imageBox" style="max-width: 288px; float:">
-<video width="288" height="162" autoplay loop muted >
+<video width="288" poster="/shootingdownthumbnail.png" height="162" autoplay loop muted >
   <source src="/shootingdown.webm" type="video/webm" />
   <source src="/shootingdown.mov" type="video/quicktime" />
   Your browser does not support the video tag.
