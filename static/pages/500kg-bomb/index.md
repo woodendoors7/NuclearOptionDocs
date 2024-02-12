@@ -8,7 +8,6 @@ The effective range is different depending on the conditions in which it is drop
 
 > "Optically guided bomb with a large surface burst warhead"
 
-
 <span class="firstColumn">
 
 ### Technical Info

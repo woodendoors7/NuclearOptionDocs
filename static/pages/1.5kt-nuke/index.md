@@ -4,12 +4,10 @@ When dropped, the bomb creates an exclusion zone is marked on the map for allied
 
 The effective range is different depending on the conditions in which it is dropped from.
 
-
-
 > "freefall tactical nuclear bomb"
 
-
 <span class="inlineChildren">
+<span class="firstColumn">
 
 ### Technical Info
 ---
@@ -25,4 +23,5 @@ The effective range is different depending on the conditions in which it is drop
 | ⩥ Range        | variable       |
 | Carried by        | 🛦FS-12 Revoker<br>🛧SFB-81 Darkreach       |
 
+</span>
 </span>

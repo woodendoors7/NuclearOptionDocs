@@ -9,8 +9,6 @@ Its effective range is 8 kilometers.
 
 > "Effective against ground targets or slow-flying aircraft at ranges of up to 8km"
 
-
-
 <span class="firstColumn">
 
 ### Technical Info
@@ -21,7 +19,7 @@ Its effective range is 8 kilometers.
 | ↔ Length       | 1.6m (160cm)       |
 | ⌀ Width        | 0.2m (20cm)       |
 | ↕ Height       | 0.2m (20cm)       |
-| 💰 Cost         | 90k        |
+| ＄ Cost         | 90k        |
 | ㎏ Warhead Yield| 10kg        |
 | Δ Delta V      | 1278km/h (355m/s)       |
 | ⩥ Range        | 8km       |

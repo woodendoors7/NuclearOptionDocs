@@ -16,20 +16,19 @@
     <h3><a href="https://discord.gg/nuclear-option-909034158205059082/" target="_blank">Join Discord</a></h3>
 
     <div class="inlineChildren">
-        <iframe id="theFrame" width="560" height="315" src="https://www.youtube-nocookie.com/embed/1vEf2TagnXc?si=PhAlk6GlZGia2rtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6TBkOjTsek?si=x2h2bj7t31mUfnq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="theFrame" width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6TBkOjTsek?si=x2h2bj7t31mUfnq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="theFrame" width="560" height="315" src="https://www.youtube-nocookie.com/embed/1vEf2TagnXc?si=PhAlk6GlZGia2rtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 
 <style>
-
     .inlineChildren > iframe {
-    vertical-align: top;
-    display: inline-block;
-    margin: 5px;
+        vertical-align: top;
+        display: inline-block;
+        margin: 5px;
     }
 
-    #theFrame{ 
+    .theFrame{ 
         max-width: 100%;
     }
 
@@ -50,7 +49,6 @@
     <meta property="twitter:image" content="/header.jpg" />
     <meta property="og:description" content="Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future." />
   
-    
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://nuclearoption.wiki/" />
     <meta property="twitter:title" content="Nuclear Option WIKI" />

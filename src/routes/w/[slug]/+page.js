@@ -1,5 +1,6 @@
 export const prerender = true;
 export const csr = false;
+//import { compile } from 'mdsvex';
 
 
 export async function load({params, fetch}) {
@@ -9,7 +10,5 @@ export async function load({params, fetch}) {
     let info = await fetch(`/pages/${slug}/info.json`)
     info = await info.json()
     indexMD = await indexMD.text()
-
-
     return {random, indexMD, info, slug }
 }

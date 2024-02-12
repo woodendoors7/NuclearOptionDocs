@@ -12,12 +12,6 @@ One of the ways to evade the missile is to 'Notch' the missile, which means flyi
 
 > "Using a combination of inertial guidance and terminal radar homing, the Scythe can engage aerial targets at beyond visual range."
 
-
-
-
-
-
-
 ### Technical Info
 ---
 

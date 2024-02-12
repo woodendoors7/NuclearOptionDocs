@@ -20,6 +20,22 @@
         margin-left: 10px;
         margin-bottom: 15px;
     }
+
+    .article {
+        margin: 0 auto 3em;
+        max-width: 70rem;
+        padding: 0.7rem !important;
+        margin-top: 60px;
+    }
+
+    ol {
+        padding-left: 20px;
+    }
+
+    blockquote {
+        margin-left:20px !important;
+        margin-right: 15px;
+    }
 }
 
 .article {

@@ -1,4 +1,5 @@
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-static';
+import { mdsvex } from "mdsvex";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -8,9 +9,16 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter(),
 		prerender:{
-			entries: ['/w/AGM-48', "/w/FS-12", "/w/TA-30", "/"]
-		}
-	}
+			entries: ["/"]
+		},
+		
+	},
+	extensions:[
+		".svelte",".svmd"
+	],
+	preprocess: mdsvex({
+		extensions: [".md"]
+	})
 };
 
 export default config;

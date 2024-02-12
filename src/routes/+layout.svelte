@@ -2,6 +2,7 @@
   //import { SvelteUIProvider } from "@svelteuidev/core";
   import "./glob.css";
   import "./sidebar.css";
+  import "./fontface.css"
 </script>
 
 <svelte:head>
@@ -53,7 +54,7 @@
 
     <div class="bottom">
       <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <img src="/ByNcSaEu.svg" style="position:absolute; bottom:0;" alt="Creative commons logo">
+        <img src="/ByNcSaSmall.svg" style="position:absolute; bottom:0;" alt="Creative commons logo">
       </a>
     </div>
   </div>

@@ -38,7 +38,6 @@ An SFB-81 Darkreach dropping 12 <a href="/w/500kg-bomb">500kg bombs</a> from its
 
 </span>
 
-
 <span class="firstColumn">
 
 | Compartment             | Weapons        |

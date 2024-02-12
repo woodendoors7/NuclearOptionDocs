@@ -1,10 +1,11 @@
-<script>
+<script async>
   export let data;
   export let indexMD;
   $: indexMD = data.indexMD;
-  console.log(data);
+  //console.log(data);
   import SvelteMarkdown from "svelte-markdown";
   import "./style.css";
+
 
 </script>
 

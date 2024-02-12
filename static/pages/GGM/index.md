@@ -10,9 +10,6 @@ Its effective range is 4km, therefore it has to be used from a relatively close 
 > "Ground-launched anti-armor missile"
 
 
-
-
-
 ### Technical Info
 ---
 
@@ -29,7 +26,7 @@ A Ground-to-Ground missile being launched at an enemy out of Linebreaker IFV's m
 | ↔ Length       | 1.3m (130cm)       |
 | ⌀ Width        | 0.1m (10cm)       |
 | ↕ Height       | 0.1m (10cm)       |
-| 💰 Cost         | 80k        |
+| ＄ Cost         | 80k        |
 | ㎏ Warhead Yield| 8kg        |
 | Δ Delta V      | 1128km/h (313m/s)       |
 | ⩥ Range        | 4km       |

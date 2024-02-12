@@ -10,16 +10,7 @@ Since the missile is a heat seeking missile, it locks onto the hottest object in
 
 The missile's effective range varies greatly, and it depends on which direction is the target aircraft flying, how fast and how good is its heat signature. 
 
-
-
-
 > "Medium-range heat seeking missile ideal for attacking fast and maneuverable aircraft"
-
-
-
-
-
-
 
 ### Technical Info
 ---
@@ -41,12 +32,12 @@ An <a href="/w/TA-30">T/A-30 Compass</a> shooting down a CI-22 Cricket with its 
 | ↔ Length       | 3.5m (350cm)       |
 | ⌀ Width        | 0.4 (40cm)      |
 | ↕ Height       | 0.4m (40cm)       |
-| 💰 Cost         | 360k    |
+| ＄ Cost         | 360k    |
 | ㎏ Warhead Yield| 9kg        |
 | Δ Delta V      | 3085km/h (856m/s)       |
 | ⩥ Range        | 15km       |
 | Carried by        | 🛨CI-22 Cricket<br>🛦T/A-30 Compass<br>🚁SAH-46 Chicane<br>🛦FS-12 Revoker<br>  |
 
-
+</span>
 
 

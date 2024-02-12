@@ -25,7 +25,7 @@ The missile's effective range varies greatly, and it depends on which direction 
 | ↔ Length       | 1.5m (150cm)       |
 | ⌀ Width        | 0.1m (10cm)      |
 | ↕ Height       | 0.1m (10cm)       |
-| 💰 Cost         | 360k    |
+| ＄ Cost         | 360k    |
 | ㎏ Warhead Yield| 2kg        |
 | Δ Delta V      | 2475km/h (687.5m/s)       |
 | ⩥ Range        | 5km       |
