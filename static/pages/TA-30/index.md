@@ -1,3 +1,10 @@
+---
+    slug: TA-30
+    title: T/A-30 Compass
+    description: The T/A-30 Compass is a multi-functional advanced trainer jet well suited for light combat duty, featuring forgiving flight characteristics
+    photo: TA30compass.webp
+    photoAlt: TA-30 Compass fighter jet
+---
 
 The **T/A-30 Compass** is a multi-functional advanced trainer jet well suited for light combat duty, featuring forgiving flight characteristics and particularly adept at low-altitude strike missions. 
 
@@ -6,19 +13,15 @@ The **T/A-30 Compass** is a multi-functional advanced trainer jet well suited fo
 ---
 It features **forgiving flight characteristics**, such as high maneuverability at low to medium speed and redundant control surfaces such twin engines, which provide a fallback if one of the engines malfunctions. 
 
-Due to its high weapon selection, it is a very flexible jet, and it can be used for any purpose, including air-to-air combat using its [MMR-S3 heat-seeking missiles](/w/MMR-S3), air-to-ground combat using the [AGM-68](/w/AGM-68) and [AGM-48](/w/AGM-48) optical missiles, [500kg bombs](/w/500kg-bomb), and a multipurpose 25 mm gunpod.
+Due to its high weapon selection, it is a very flexible jet, and it can be used for any purpose, including air-to-air combat using its [MMR-S3 heat-seeking missiles](/w/MMR-S3), air-to-ground combat using the [AGM-68](/w/AGM-68) and [AGM-48](/w/AGM-48) optical missiles, [500kg bombs](/w/500kg-bomb), and a multipurpose 25mm gunpod.
 
 
 > "An advanced jet trainer which is well suited for light combat duty, the T/A-30 is highly maneuverable at low to medium speeds and possesses forgiving flight characteristics. Particularly adept at low-altitude strike missions, the Compass features redundant control surfaces and twin engines to improve survivability."
 
-<span class="imageBox" style="max-width: 288px; float:">
-<video width="288" poster="/shootingdownthumbnail.png" height="162" autoplay loop muted >
-  <source src="/shootingdown.webm" type="video/webm" />
-  <source src="/shootingdown.mov" type="video/quicktime" />
-  Your browser does not support the video tag.
-</video>
-<br>
-An T/A-30 Compass shooting down a CI-22 Cricket with its <a href="/w/MMR-S3">MMR-S3 heat seeking missiles.</a>
+<span class="imageBox" style="max-width: 288px;">
+  <Vid global="true" loop="true" autoplay="true" muted="true" name="shootingdown.webm" thumb="shootingdownthumbnail.webp" lossless="shootingdown.mov" width="288" {slug} />
+  <br>
+  An <a href="/w/TA-30">T/A-30 Compass</a> shooting down a CI-22 Cricket with its MMR-S3 heat seeking missiles.
 </span>
 
 
@@ -54,3 +57,7 @@ An T/A-30 Compass shooting down a CI-22 Cricket with its <a href="/w/MMR-S3">MMR
 
 </span>
 </span>
+
+<script>
+    import Vid from "$lib/vid.svelte"
+</script>

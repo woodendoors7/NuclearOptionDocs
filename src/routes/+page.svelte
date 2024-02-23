@@ -46,12 +46,12 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://nuclearoption.wiki/" />
     <meta property="og:title" content="Nuclear Option WIKI" />
-    <meta property="twitter:image" content="/header.jpg" />
+    <meta property="twitter:image" content="/media/header.jpg" />
     <meta property="og:description" content="Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future." />
   
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://nuclearoption.wiki/" />
     <meta property="twitter:title" content="Nuclear Option WIKI" />
-    <meta property="twitter:image" content="/header.jpg" />
+    <meta property="twitter:image" content="/media/header.jpg" />
     <meta property="twitter:description" content="Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future." />
 </svelte:head>

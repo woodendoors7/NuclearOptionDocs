@@ -16,7 +16,7 @@ Its effective range is 15 kilometers.
 | ↔ Length       | 2.5m (250cm)       |
 | ⌀ Width        | 0.5m (50cm)       |
 | ↕ Height       | 0.5m (50cm)       |
-| 💰 Cost         | 120k        |
+| ＄ Cost         | 120k        |
 | ㎏ Warhead Yield| 130kg       |
 | Δ Delta V      | 1386km/h (385m/s)       |
 | ⩥ Range        | 15km       |

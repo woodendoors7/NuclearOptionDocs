@@ -1,3 +1,11 @@
+---
+    slug: AAM-29
+    title: AAM-29 Scythe
+    description: The AAM-29 Scythe is an Air-to-Air high range active radar homing missile that is used for targeting and destroying air targets from aircraft, even at beyond visual range.
+    photo: aamscythe.webp
+    photoAlt: AAM-29 Scythe active radar homing long range missile
+---
+
 The **AAM-29 Scythe** is an Air-to-Air high range active radar homing missile that is used for targeting and destroying air targets from aircraft, even at beyond visual range.
 
 ### Details
@@ -24,12 +32,10 @@ One of the ways to evade the missile is to 'Notch' the missile, which means flyi
 | ↔ Length       | 3.5m (350cm)       |
 | ⌀ Width        | 0.4 (40cm)      |
 | ↕ Height       | 0.4m (40cm)       |
-| 💰 Cost         | 360k    |
+| ＄ Cost         | 360k    |
 | ㎏ Warhead Yield| 20kg        |
 | Δ Delta V      | 4307km/h (1196m/s)       |
 | ⩥ Range        | 120km       |
 | Carried by        | 🛦T/A-30 Compass<br>🛦FS-12 Revoker  |
 
-
-
-
+</span>

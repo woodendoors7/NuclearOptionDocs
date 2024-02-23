@@ -1,5 +1,4 @@
 <script>
-  //import { SvelteUIProvider } from "@svelteuidev/core";
   import "./glob.css";
   import "./sidebar.css";
   import "./fontface.css"
@@ -15,11 +14,11 @@
   <label for="openSidebarMenu" id="secondCollapse">⚞</label>
 
   <div class="imgSlot">
-    <a href="/"><img class="logo" src="/nukeoption.webp" alt="Nuclear Option game logo" /></a>
+    <a href="/"><img class="logo" src="/media/nukeoption.webp" alt="Nuclear Option game logo" /></a>
   </div>    
 
   <div class="sidenav">
-    <b>Nuclear Option WIKI</b>
+    <a href="/" class="noDecor"><b style="text-decoration: none;">Nuclear Option WIKI</b></a>
 
     <details open>
       <summary>Aircraft</summary>
@@ -54,7 +53,7 @@
 
     <div class="bottom">
       <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <img src="/ByNcSaSmall.svg" style="position:absolute; bottom:0;" alt="Creative commons logo">
+        <img src="/media/ByNcSaSmall.svg" style="position:absolute; bottom:0;" alt="Creative commons logo">
       </a>
     </div>
   </div>
@@ -65,4 +64,20 @@
 </div>
 
 <style>
+  .noDecor:link { 
+    color: white;
+    text-decoration: none; 
+  } 
+  .noDecor:visited { 
+    color: white;
+    text-decoration: none; 
+  } 
+  .noDecor:hover { 
+    color: white;
+    text-decoration: none; 
+  } 
+  .noDecor:active { 
+    color: white;
+    text-decoration: none; 
+  }
 </style>

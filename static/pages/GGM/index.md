@@ -1,3 +1,11 @@
+---
+    slug: GGM
+    title: Ground-to-Ground missile
+    description: The Ground-to-Ground missile is an optical anti-armor missile launched by ground vehicles to target and destroy enemy vehicles.
+    photo: groundtogroundmissile.webp
+    photoAlt: Ground to ground launched armor piercing optical missile
+---
+
 The **Ground-to-Ground missile** is an optically guided anti-armor missile launched by ground vehicles to target and destroy enemy vehicles. 
 
 ### Details 
@@ -14,9 +22,9 @@ Its effective range is 4km, therefore it has to be used from a relatively close 
 ---
 
 <span class="imageBox" style="max-width: 250px; margin-bottom: 10px;">
-    <img style="width: 250px;" src="/pages/GGM/ggmfired.webp" alt="Ground-to-ground missile being launched from Linebreaker IFV">
-<br> 
-A Ground-to-Ground missile being launched at an enemy out of Linebreaker IFV's missile launcher.
+    <Pic name="ggmfired.webp" alt="Ground-to-ground missile being launched from Linebreaker IFV" width="250px" {slug}/>
+    <br> 
+    A Ground-to-Ground missile being launched at an enemy out of Linebreaker IFV's missile launcher.
 </span>
 
 <span class="firstColumn">
@@ -33,3 +41,7 @@ A Ground-to-Ground missile being launched at an enemy out of Linebreaker IFV's m
 | Carried by        | ⛟AFV8 IFV<br>⛟Linebreaker IFV   |
 
 </span>
+
+<script>
+    import Pic from "$lib/pic.svelte"
+</script>

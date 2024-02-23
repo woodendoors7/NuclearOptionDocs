@@ -1,3 +1,11 @@
+---
+    slug: AGM-48
+    title: AGM-48
+    description: The AGM-48 is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft.
+    photo: AGM-48.webp
+    photoAlt: AGM-48 Optically guided light air-to-ground missile
+---
+
 The **AGM-48** is an Air-to-Ground missile that is used for targeting and destroying ground targets from aircraft.
 
 ### Details 

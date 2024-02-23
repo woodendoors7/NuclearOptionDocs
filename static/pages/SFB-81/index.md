@@ -1,3 +1,11 @@
+---
+    slug: SFB-81
+    title: SFB-81 Darkreach
+    description: The SFB-81 Darkreach is an advanced strategic bomber, featuring a stealthy design, capable of using both nuclear and conventional bombs and missiles on ground targets.
+    photo: sfbdarkreach.webp
+    photoAlt: SFB-81 Darkreach large strategic bomber flying above land in the evening
+---
+
 The **SFB-81 Darkreach** is an advanced strategic bomber, featuring a stealthy design, capable of using both nuclear and conventional bombs and missiles on ground targets.
 
 
@@ -13,10 +21,10 @@ It is highly ineffective to drop missiles or rockets from the Revoker in a heavi
 > "Featuring powerful engines, a stealthy silhouette, and 4 large internal weapon bays, the SFB-81 Darkreach is a formidable bomber capable of deploying both conventional and nuclear weapons. Its blended wing design allows the Darkreach to conduct operations in a veriety of flight regimes, from low-altitude penetrating strikes to standoff strategic bombardment."
 
 
-<span class="imageBox" style="max-width: 235px; float:">
-  <img style="max-width: 235px;" src="/pages/SFB-81/sfbdropping.webp" alt="SFB-81 Darkreach bomber dropping bombs from its bottom internal weapon bays">
-<br>
-An SFB-81 Darkreach dropping 12 <a href="/w/500kg-bomb">500kg bombs</a> from its four large internal weapon bays.
+<span class="imageBox" style="max-width: 235px;">
+  <Pic name="sfbdropping.webp" alt="SFB-81 Darkreach bomber dropping bombs from its bottom internal weapon bays" width="235px" {slug}/>
+  <br>
+  An SFB-81 Darkreach dropping 12 <a href="/w/500kg-bomb">500kg bombs</a> from its four large internal weapon bays.
 </span>
 
 ### Technical Info
@@ -47,3 +55,7 @@ An SFB-81 Darkreach dropping 12 <a href="/w/500kg-bomb">500kg bombs</a> from its
 
 </span>
 </span>
+
+  <script>
+    import Pic from "$lib/pic.svelte"
+  </script>
