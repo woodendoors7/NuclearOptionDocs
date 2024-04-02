@@ -13,7 +13,7 @@
        <label for="openSidebarMenu" style="background-color: lightblue; color: black; padding: 10px; font-size: 20px; font-weight: bold; cursor: pointer; user-select: none;">Browse WIKIS</label>
 
     <h3><a href="https://store.steampowered.com/app/2168680/Nuclear_Option/" target="_blank">Buy on Steam</a></h3>
-    <h3><a href="https://discord.gg/nuclear-option-909034158205059082/" target="_blank">Join Discord</a></h3>
+    <h3><a href="https://discord.gg/nuclear-option-909034158205059082" target="_blank">Join Discord</a></h3>
 
     <div class="inlineChildren">
         <iframe class="theFrame" width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6TBkOjTsek?si=x2h2bj7t31mUfnq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

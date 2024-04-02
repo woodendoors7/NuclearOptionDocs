@@ -1,4 +1,8 @@
-## Repo for [nuclearoption.wiki](https://nuclearoption.wiki)
+# Repo for [nuclearoption.wiki](https://nuclearoption.wiki)
+
+<p align="center">
+    <img src="./static/media/header.jpg">
+</p>
 
 #### This is the repository the wiki is being publicly stored, modified and deployed from. 
 

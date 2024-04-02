@@ -33,7 +33,6 @@ You will need these programs:
   ### Start UABEA and open the asset file
    1. Go into the folder with the extracted UABEA files from the previous part. Double-click the file named UABEAvalonia.exe, which should have a white and pink icon.
    1. Click on “File”, and open. Now, click on the empty part of the address bar, and paste in the path which you copied in the previous step, then press enter.<br>
-    <Pic name="tutorialHowToExportDumps.webp" alt="tutorial showing how to export dumps of assets in UABEA" width="600px" {slug}/>
    1. Search for a 📁*resources.assets* file. Double click it. 
 
 A new window should be opened, which lists all the resources in the game. 

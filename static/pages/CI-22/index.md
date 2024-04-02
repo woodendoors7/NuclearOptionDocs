@@ -50,3 +50,18 @@ Other than its signature lynchpin rockets and cannons, it can also be equipped w
 
 </span>
 </span>
+
+
+<Gallery>
+    <Pic name="CI-22 Ground airstrike by alexphan5404.webp" alt="A CI-22 Cricket performing a ground airstrike on vehicles on the road" width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="CI-22 Beautiful reflection by obiwanchronobi.webp" alt="Beautiful photo of a CI-22 Cricket flying away from a mountain while the sun is setting" width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="CI-22 Tandem two crickets by m0nark_.webp" alt="Two CI-22 Crickets flying alongside each other low to the ground at sunset" width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="CI-22 Low tandem flight by apocalypse4659.webp" alt="Two CI-22 Cricket in a mission flying along a SAH-46 Chicane into battle at the beach" width="350px" subpath="gallery" responsive={true} {slug}/>
+    <Pic name="CI-22 Cockpit view by sirinfernos.webp" alt="Cockpit view of an CI-22 Cricket after firing a missile at an enemy Cricket" width="350px" subpath="gallery" responsive={true} {slug}/>  
+    <Pic name="CI-22 flaring for life by alexphan5404.webp" alt="Two CI-22 Crickets in a fight releasing flares and dodging missiles, while one is almost destroyed" width="350px" subpath="gallery" responsive={true} {slug}/> 
+</Gallery>
+
+<script>
+    import Pic from "$lib/pic.svelte"
+    import Gallery from "$lib/gallery.svelte"
+</script>

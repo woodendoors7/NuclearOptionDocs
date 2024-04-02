@@ -56,6 +56,15 @@ It is highly ineffective to drop missiles or rockets from the Revoker in a heavi
 </span>
 </span>
 
+<Gallery>
+    <Pic name="SFB-81 two darkreaches by filfio.webp" alt="Two SFB-81 revokers flying together high in the clouds, going on a bombing mission" width="350px" subpath="gallery" responsive={true} {slug}/>
+    <Pic name="SFB-81 Escort flight revoker by filfio.webp" alt="Outside view of an SFB-81 being escorted by an FS-12 jet during a sunset in a bombing mission, while FS-12 is releasing flares to evade a missile" width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="FS-12 Tandem Flight by alexphan5404.webp" alt="FS-12 flying alongside a TA-30 Compass and a SFB-81 Darkreach" width="350px" subpath="gallery" responsive={true} global={true} {slug}/> 
+    <Pic name="SFB-81 Escort flight by cyanfox3006.webp" alt="Cockpit view from an FS-12 Escorting an SFB-81 Darkreach from behind" global={true} width="350px" subpath="gallery" responsive={true} {slug}/> 
+
+</Gallery>
+
   <script>
     import Pic from "$lib/pic.svelte"
+    import Gallery from "$lib/gallery.svelte"
   </script>

@@ -58,6 +58,21 @@ Due to its high weapon selection, it is a very flexible jet, and it can be used 
 </span>
 </span>
 
+<Gallery>
+    <Pic name="TA-30 Bombing airport by alexphan5404.webp" alt="A TA-30 jet after dropping a bomb on City airbase, while smoke is billowing from destroyed buildings" width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="TA-30 Cockpit view by sirinfernos.webp" alt="Cockpit view of the TA-30 jet while on the ground taxiing, while a SFB-81 Darkreach is taking off from the runway" width="350px" subpath="gallery" responsive={true} {slug}/>  
+    <Pic name="TA-30 Upside down Dogfight by filfio.webp" alt="An enemy TA-30 jet chasing another TA-30 jet in a dogfight, while one of them is upside down close to the ground" width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="FS-12 and TA-30 dogfight by captin12234.webp" alt="An FS-12 Revoker and a TA-30 Compass in a dogfight, the FS-12 has been destroyed by the TA-30s guns and is on fire" global={true} width="350px" subpath="gallery" responsive={true} {slug}/> 
+    <Pic name="TA-30 Jet chase at twilight by 1701.webp" alt="A TA-30 jet flying during sunset after another TA-30 which is smoking from damage" width="350px" subpath="gallery" responsive={true} {slug}/>
+    <Pic name="TA-30 Ground strike by alexphan5404.webp" alt="A TA-30 jet banking away after striking a ground target with its rocket, while looking at the explosion from the vehicle" width="350px" subpath="gallery" responsive={true} {slug}/>
+    <Pic name="TA-30 Cuddle puddle by alexandor.webp" alt="A TA-30 jet parked on the ground while it's dark outside, next to several other crashed TA-30s on the runway" width="350px" subpath="gallery" responsive={true} {slug}/>
+    <Pic name="TA-30 Explosion and shockwave by df_cwb.webp" alt="A TA-30 looking at a large explosion with a shockwave from a nuclear bomb it had dropped" width="350px" subpath="gallery" responsive={true} {slug}/>
+    <Pic name="FS-12 Tandem Flight by alexphan5404.webp" alt="FS-12 flying alongside a TA-30 Compass and a SFB-81 Darkreach" width="350px" subpath="gallery" responsive={true} global={true} {slug}/> 
+    <Pic name="TA-30 Shooting missile by alexphan5404.webp" alt="Bottom view of a TA-30 jet after it had fired its missile at a target" width="350px" subpath="gallery" responsive={true} {slug}/> 
+</Gallery>
+
 <script>
     import Vid from "$lib/vid.svelte"
+    import Pic from "$lib/pic.svelte"
+    import Gallery from "$lib/gallery.svelte"
 </script>
