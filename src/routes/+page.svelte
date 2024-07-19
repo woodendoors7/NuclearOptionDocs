@@ -1,7 +1,17 @@
 
 <div class="article">
+
+    <div>
+        The site has moved! The new official wiki is now located on  <b><a class="newlink" href="https://nuclearoption.wiki.gg">nuclearoption.wiki.gg</a></b><br>
+          <b>Visit the new <a class="newlink" href="https://nuclearoption.wiki.gg/wiki/Nuclear_Option_Wiki">Nuclear Option Wiki</a> page on wiki.gg</b>
+      </div>
+
     <h1>Nuclear Option Community WIKI</h1>
-    <main><p>Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future. Use an array of advanced weapons to change the course of battles as you intercept bombers, duel fighters, fly under the radar, or unleash the fury of nuclear weapons on enemy formations.
+    <main>
+        
+
+
+        <p>Nuclear Option is a combat flight game set on a dynamic and realistic battlefield of the near future. Use an array of advanced weapons to change the course of battles as you intercept bombers, duel fighters, fly under the radar, or unleash the fury of nuclear weapons on enemy formations.
        Each aircraft comes with an immersive cockpit featuring a situational awareness HUD, identifying nearby targets and threats. Aircraft can be flown with various controllers or with a mouse-controlled "virtual joystick", requiring no special hardware.</p></main>
     
        <p>For this page, I am using <a href="https://kit.svelte.dev/SvelteKit">SvelteKit</a> as the development/deployment/SSG tool. The individual wiki pages are stored as markdown files in a <a href="https://github.com/woodendoors7/NuclearOptionDocs">Github Repo</a>, and I am deploying and hosting everything statically on <a href="https://pages.cloudflare.com">Cloudflare Pages</a>.
@@ -38,10 +48,17 @@
         padding: 2rem;
         margin-top: 60px;
     }
+
+    .newlink{ 
+    color: rgb(255, 56, 56);
+  }
 </style>
 
 <svelte:head>
     <title>Nuclear Option WIKI</title>
+
+    <link rel="canonical" href="https://nuclearoption.wiki.gg/wiki/Nuclear_Option_Wiki" />
+
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://nuclearoption.wiki/" />
